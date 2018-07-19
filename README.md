@@ -2,6 +2,8 @@
 
 ## About this Notes
 
+1. [Preliminaries](01_Preliminaries.ipynb)
+
 ## Style guide
 - Each Tutorial should contain a table of contents at the beginning.
 - Markdown language offers a neat way to write pseudo-code. [See this question at StackOverflow](https://stackoverflow.com/questions/34903115/is-it-possible-to-create-a-code-block-of-pseudocode-in-r-markdown-knitr).
