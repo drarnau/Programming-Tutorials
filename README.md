@@ -1,6 +1,6 @@
 # Programming for Quantitative Analysis Tutorials
 
-## About this Notes
+## About these Tutorials
 
 ## Style guide
 - Each Tutorial should contain a table of contents at the beginning.
