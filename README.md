@@ -1,6 +1,6 @@
-# Programming for Quantitative Analysis Notes
+# Programming for Quantitative Analysis Tutorials
 
-## About this Notes
+## About these Tutorials
 
 ## Tutorials
 1. [Preliminaries](https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/01_Preliminaries.ipynb).
