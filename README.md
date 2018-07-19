@@ -2,7 +2,7 @@
 
 ## About this Notes
 
-1. [Preliminaries](01_Preliminaries.ipynb)
+1. [Preliminaries](https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/01_Preliminaries.ipynb)
 
 ## Style guide
 - Each Tutorial should contain a table of contents at the beginning.
