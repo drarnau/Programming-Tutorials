@@ -8,8 +8,7 @@
 3. [Values, Variables, and Operators](https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/03_Values_Variables_and_Operators.ipynb).
 4. [Iteration and Conditionals](https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/04_Iteration_and_Conditionals.ipynb).
 5. [Basics of Algorithm Implementation](https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/05_Basics_Of_Algorithm_Implementation.ipynb).
-6. [Programming is a Complement not a Substitute](https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/06_Programming_Is_A_Complement_Not_A_Substitue.ipynb).
-7. [Object Oriented Programming](https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/07_Object_Oriented_Programming.ipynb).
+6. [Object Oriented Programming](https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/07_Object_Oriented_Programming.ipynb).
 
 ## License
 ![alt text](https://i.creativecommons.org/l/by-nc/4.0/80x15.png "Creative Commons Licence") This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
