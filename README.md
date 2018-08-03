@@ -10,5 +10,8 @@
 5. [Basics of Algorithm Implementation](https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/05_Basics_Of_Algorithm_Implementation.ipynb).
 6. [Object Oriented Programming](https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/07_Object_Oriented_Programming.ipynb).
 
+## Student Projects
+
+
 ## License
 ![alt text](https://i.creativecommons.org/l/by-nc/4.0/80x15.png "Creative Commons Licence") This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
