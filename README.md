@@ -3,7 +3,7 @@
 ## About these Tutorials
 
 ## Tutorials
-1. [Preliminaries](https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/01_Preliminaries.ipynb).
+1. [Preliminaries](01_Preliminaries.html).
 2. [Introduction to Programming](https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/02_Introduction_to_Programming.ipynb).
 3. [Values, Variables, and Operators](https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/03_Values_Variables_and_Operators.ipynb).
 4. [Iteration and Conditionals](https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/04_Iteration_and_Conditionals.ipynb).
