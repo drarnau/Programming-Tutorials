@@ -1,4 +1,3 @@
-# 
 # Before you start
 This site contains a set of tutorials aimed at providing an introduction to programming for beginners. The focus of the material is not on teaching the details of one programming language but rather to provide a broad overview of key concepts about programming. All tutorials use [Python](https://www.python.org/) as the implementation language. The tutorials are intended to be especially useful for students in Social Sciences as reflected in many of the examples and applications covered.
 
