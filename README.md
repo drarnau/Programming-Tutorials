@@ -32,6 +32,6 @@ These tutorials have been developed by students at the [University of St. Gallen
 * Paul Spicher.
 * Jonas Streule.
 * August Strotz.
-* Jéròme Studer.
+* Jérôme Studer.
 * Nicola Urech.
 * Aline Zimmermann.
