@@ -1,5 +1,5 @@
 # Before you start
-TBW.
+This site contains a set of tutorials aimed at providing an introduction to programming for beginners. The focus of the material is not on teaching the details of one programming language but rather to provide a broad overview of key concepts about programming. All tutorials use [Python](https://www.python.org/) as the implementation language. The tutorials are intended to be especially useful for students in Social Sciences as reflected in many of the examples and applications covered.
 
 # Topics
 
@@ -11,10 +11,10 @@ TBW.
 6. <a href="https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/06_Object_Oriented_Programming.ipynb" target="_blank">Object Oriented Programming</a>.
 
 # About
-These tutorials have been developed by undergraduate students at the University of St. Gallen (Switzerland).
+These tutorials have been developed by students at the University of St. Gallen (Switzerland).
 
 ## Contributors
 * TBC.
 
-# License
+## License
 ![alt text](https://i.creativecommons.org/l/by-nc/4.0/80x15.png "Creative Commons Licence") This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
