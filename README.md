@@ -18,8 +18,10 @@ These tutorials have been developed by students at the [University of St. Gallen
 ![alt text](https://i.creativecommons.org/l/by-nc/4.0/80x15.png "Creative Commons Licence") This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
 ## Contributors
+* Samuel Adams.
 * Toma Baev.
 * Philipp Beck.
+* Sebastian Behrens.
 * David Böckling.
 * Ryan Cheng.
 * Li An Chia.
