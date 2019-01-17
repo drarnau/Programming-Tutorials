@@ -8,6 +8,7 @@ This site contains a set of tutorials aimed at providing an introduction to prog
 4. <a href="https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/04_Iteration_and_Conditionals.ipynb" target="_blank">Iteration and Conditionals</a>.
 5. <a href="https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/05_Basics_Of_Algorithm_Implementation.ipynb" target="_blank">Basics of Algorithm Implementation</a>.
 6. <a href="https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/06_Object_Oriented_Programming.ipynb" target="_blank">Object Oriented Programming</a>.
+7. <a href="https://nbviewer.jupyter.org/github/drarnau/Programming-for-Quantitative-Analysis/blob/master/07_Data_Handling_EU_Labour_Market.ipynb" target="_blank">Data Handling: The EU's Labour Market</a>.
 
 # About
 These tutorials have been developed by students at the [University of St. Gallen](https://www.unisg.ch/) (Switzerland).
@@ -17,12 +18,15 @@ These tutorials have been developed by students at the [University of St. Gallen
 
 ## Contributors
 * Toma Baev.
+* Philipp Beck.
 * David Böckling.
 * Ryan Cheng.
 * Li An Chia.
+* Enis Dakoumi,
 * Grégory Demaurex.
 * Simon Haugeberg.
 * Bryan Jacot-Descombes.
+* Lucie Keller.
 * Konstantin Kujundzic.
 * Ee Xuan Lee.
 * Cher Lin Charis Low.
