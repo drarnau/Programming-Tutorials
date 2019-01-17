@@ -20,6 +20,7 @@ These tutorials have been developed by students at the [University of St. Gallen
 ## Contributors
 * Samuel Adams.
 * Toma Baev.
+* Jofre Bagan.
 * Philipp Beck.
 * Sebastian Behrens.
 * David Böckling.
