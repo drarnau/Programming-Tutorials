@@ -14,9 +14,6 @@ This site contains a set of tutorials aimed at providing an introduction to prog
 # About
 These tutorials have been developed by students at the [University of St. Gallen](https://www.unisg.ch/) (Switzerland).
 
-## License
-![alt text](https://i.creativecommons.org/l/by-nc/4.0/80x15.png "Creative Commons Licence") This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
-
 ## Contributors
 * Samuel Adams.
 * Toma Baev.
@@ -46,3 +43,6 @@ These tutorials have been developed by students at the [University of St. Gallen
 * Jérôme Studer.
 * Nicola Urech.
 * Aline Zimmermann.
+
+## License
+![alt text](https://i.creativecommons.org/l/by-nc/4.0/80x15.png "Creative Commons Licence") This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
