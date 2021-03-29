@@ -1,6 +1,3 @@
 .ipynb_checkpoints/
 *.yml
 _config.yml
-
-# PyCharm project files
-/\.idea
