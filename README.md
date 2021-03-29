@@ -21,10 +21,12 @@ These tutorials have been developed by students at the [University of St. Gallen
 * Philipp Beck.
 * Sebastian Behrens.
 * David Böckling.
+* Ralf Blöchlinger.
 * Ryan Cheng.
 * Li An Chia.
 * Enis Dakoumi,
 * Grégory Demaurex.
+* Ruben Ernst.
 * Simon Haugeberg.
 * Bryan Jacot-Descombes.
 * Lucie Keller.
@@ -35,12 +37,14 @@ These tutorials have been developed by students at the [University of St. Gallen
 * Julia Matas.
 * Gustaf Wilhelm André Nordenlöw.
 * Orlando Saxer.
+* Jeremie Schnorf.
 * Matthias Schuch.
 * Mike Sipofo.
 * Paul Spicher.
 * Jonas Streule.
 * August Strotz.
 * Jérôme Studer.
+* Philemon Thalman.
 * Nicola Urech.
 * Aline Zimmermann.
 
