@@ -22,24 +22,26 @@ These tutorials have been developed by students at the [University of St. Gallen
 * Sebastian Behrens.
 * David Böckling.
 * Ralf Blöchlinger.
+* Alexandre Buchel.
 * Ryan Cheng.
 * Li An Chia.
-* Danny Currat.
+* Alexandre Cruzado.
 * Enis Dakoumi,
 * Grégory Demaurex.
+* Titouan Dupleich.
 * Ruben Ernst.
 * Simon Haugeberg.
 * Bryan Jacot-Descombes.
+* Fabia Simone Jenny.
 * Lucie Keller.
-* Justin Koren.
 * Konstantin Kujundzic.
 * Ee Xuan Lee.
+* Curdin Lieberherr.
 * Cher Lin Charis Low.
 * Samuel Quick Lynaugh.
 * Julia Matas.
 * Gustaf Wilhelm André Nordenlöw.
-* Julie Qin.
-* Aurélien Queloz.
+* Alessandro Pedrazzini.
 * Orlando Saxer.
 * Jeremie Schnorf.
 * Matthias Schuch.
@@ -50,6 +52,7 @@ These tutorials have been developed by students at the [University of St. Gallen
 * Jérôme Studer.
 * Philemon Thalman.
 * Nicola Urech.
+* Alessandra Sofia Vollmer.
 * Aline Zimmermann.
 
 ## License
