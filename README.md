@@ -33,7 +33,10 @@ These tutorials have been developed by students at the [University of St. Gallen
 * Simon Haugeberg.
 * Bryan Jacot-Descombes.
 * Fabia Simone Jenny.
+* Clémentine Jordan.
 * Lucie Keller.
+* André Kingsman.
+* Daniel Kroning.
 * Konstantin Kujundzic.
 * Ee Xuan Lee.
 * Curdin Lieberherr.
@@ -42,6 +45,7 @@ These tutorials have been developed by students at the [University of St. Gallen
 * Julia Matas.
 * Gustaf Wilhelm André Nordenlöw.
 * Alessandro Pedrazzini.
+* Joakim Myhre Rolfsøn.
 * Orlando Saxer.
 * Jeremie Schnorf.
 * Matthias Schuch.
