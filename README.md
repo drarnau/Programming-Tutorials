@@ -31,6 +31,7 @@ These tutorials have been developed by students at the [University of St. Gallen
 * Grégory Demaurex.
 * Titouan Dupleich.
 * Ruben Ernst.
+* Yehudah Gol.
 * Simon Haugeberg.
 * Bryan Jacot-Descombes.
 * Fabia Simone Jenny.
@@ -45,9 +46,11 @@ These tutorials have been developed by students at the [University of St. Gallen
 * Cher Lin Charis Low.
 * Samuel Quick Lynaugh.
 * Julia Matas.
+* Lukas Mühlfriedel.
 * Gustaf Wilhelm André Nordenlöw.
 * Alessandro Pedrazzini.
 * Joakim Myhre Rolfsøn.
+* Andrea Salem.
 * Orlando Saxer.
 * Robin Scherrer.
 * Jeremie Schnorf.
@@ -59,6 +62,7 @@ These tutorials have been developed by students at the [University of St. Gallen
 * Jérôme Studer.
 * Philemon Thalman.
 * Nicola Urech.
+* Gianluca Vanacore. 
 * Alessandra Sofia Vollmer.
 * Laura Walser.
 * Aline Zimmermann.
