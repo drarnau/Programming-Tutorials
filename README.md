@@ -30,6 +30,7 @@ These tutorials have been developed by students at the [University of St. Gallen
 * Enis Dakoumi,
 * Grégory Demaurex.
 * Titouan Dupleich.
+* Peder Dahlum Eide. 
 * Ruben Ernst.
 * Yehudah Gol.
 * Simon Haugeberg.
@@ -62,8 +63,9 @@ These tutorials have been developed by students at the [University of St. Gallen
 * Jérôme Studer.
 * Philemon Thalman.
 * Nicola Urech.
-* Gianluca Vanacore. 
+* Gianluca Vanacore.
 * Alessandra Sofia Vollmer.
+* Lovis von Richthofen.
 * Laura Walser.
 * Aline Zimmermann.
 
